@@ -1,51 +1,90 @@
-<h1 align="center">Hi 👋, I'm Aditya Grover</h1>
-<h3 align="center">Frontend Developer | React Learner | Future Full-Stack Engineer</h3>
+<h1 align="center">Hi 👋 I'm Aditya Grover</h1>
+<h3 align="center">Frontend Developer | JavaScript Enthusiast | Future Full-Stack Engineer</h3>
+
+<p align="center">
+I build clean, responsive and real-world web applications.
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Recent Graduate (2025)
-- 💻 Passionate about Web Development
-- 🌱 Currently learning **React & Advanced JavaScript**
-- 🎯 Goal: Become a Full-Stack Developer in 2026
-- ⚡ Love building real-world projects
+## 👨‍💻 About Me
+
+🎓 Recent Graduate (2025)  
+💻 Focused on Frontend Development  
+🌱 Currently learning **React & Advanced JavaScript**  
+🚀 Goal: Become a Full-Stack Developer  
+📍 India  
+
+I love turning ideas into real products and improving every day.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages & Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-🔹 ToDo App  
-A responsive task manager built using HTML, CSS & JavaScript.  
-👉 https://github.com/adityagrover-dev/ToD0-app
-
-🔹 More projects coming soon 🚀
+### ⚙️ Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagrover-dev&show_icons=true&theme=tokyonight)
+## 🚀 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagrover-dev&layout=compact&theme=tokyonight)
+### 📝 1️⃣ ToDo App
+A responsive task manager built using HTML, CSS & JavaScript with local storage.
+
+🔗 Live Demo: https://ADD-NETLIFY-LINK  
+💻 Repo: https://github.com/adityagrover-dev/ToD0-app
+
+---
+
+### 🌦️ 2️⃣ Weather App
+Real-time weather app using public API and modern UI.
+
+🔗 Live Demo: https://ADD-NETLIFY-LINK  
+💻 Repo: ADD-REPO-LINK
+
+---
+
+### 📒 3️⃣ Notes App
+CRUD notes app with local storage & responsive design.
+
+🔗 Live Demo: https://ADD-NETLIFY-LINK  
+💻 Repo: ADD-REPO-LINK
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adityagrover-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagrover-dev&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Learn React deeply
+- Build Full-Stack Projects
+- Contribute to Open Source
+- Get my first Developer Job
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn (Add soon)
-- 📧 Email: add-your-email-here
+
+📧 Email: **aditya11grover@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/yourprofile**
 
 ---
 
-⭐ From [Aditya Grover](https://github.com/adityagrover-dev)
+⭐ Thanks for visiting my profile!
