@@ -38,7 +38,7 @@ I love turning ideas into real products and improving every day.
 ### 📝 1️⃣ ToDo App
 A responsive task manager built using HTML, CSS & JavaScript with local storage.
 
-🔗 Live Demo: https://ADD-NETLIFY-LINK  
+🔗 Live Demo: https://adityagrover-todo-app.netlify.app/
 💻 Repo: https://github.com/adityagrover-dev/ToD0-app
 
 ---
@@ -46,16 +46,16 @@ A responsive task manager built using HTML, CSS & JavaScript with local storage.
 ### 🌦️ 2️⃣ Weather App
 Real-time weather app using public API and modern UI.
 
-🔗 Live Demo: https://ADD-NETLIFY-LINK  
-💻 Repo: ADD-REPO-LINK
+🔗 Live Demo:https://adityagrover-weather-app.netlify.app/
+💻 Repo: https://github.com/adityagrover-dev/weather-app
 
 ---
 
 ### 📒 3️⃣ Quiz App
 Interactive Quiz application With score tracking and dynamic questions.
 
-🔗 Live Demo: https://ADD-NETLIFY-LINK  
-💻 Repo: ADD-REPO-LINK
+🔗 Live Demo:https://adityagrover-quiz-app.netlify.app/
+💻 Repo:  https://github.com/adityagrover-dev/quiz-app
 
 ---
 
