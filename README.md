@@ -51,8 +51,8 @@ Real-time weather app using public API and modern UI.
 
 ---
 
-### 📒 3️⃣ Notes App
-CRUD notes app with local storage & responsive design.
+### 📒 3️⃣ Quiz App
+Interactive Quiz application With score tracking and dynamic questions.
 
 🔗 Live Demo: https://ADD-NETLIFY-LINK  
 💻 Repo: ADD-REPO-LINK
