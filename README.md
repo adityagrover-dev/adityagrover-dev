@@ -83,7 +83,7 @@ Interactive Quiz application With score tracking and dynamic questions.
 ## 🤝 Connect With Me
 
 📧 Email: **aditya11grover@gmail.com**  
-💼 LinkedIn: **https://linkedin.com/in/yourprofile**
+💼 LinkedIn: **https://www.linkedin.com/in/aditya-grover-04669a258/**
 
 ---
 
